@@ -1,0 +1,24 @@
+# Simulation outputs
+sim/logs/
+sim/runs/
+sim/waves/
+*.vcd
+*.fsdb
+*.wlf
+
+# Build artifacts
+build/
+out/
+dist/
+*.d
+*.o
+
+# Python virtual environments
+.venv/
+__pycache__/
+*.pyc
+
+# Tool-specific directories
+.DS_Store
+.vscode/
+.idea/
